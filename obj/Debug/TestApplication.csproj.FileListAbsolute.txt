@@ -1,0 +1,14 @@
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\WeatherApp.dll
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\WeatherApp.pdb
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.csprojAssemblyReference.cache
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.Form1.resources
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.cache
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.csproj.CopyComplete
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Patryk\source\repos\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patryk\source\repos\TestApplication\bin\Debug\Newtonsoft.Json.xml
